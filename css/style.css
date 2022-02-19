@@ -1,0 +1,232 @@
+body {
+  background-color: #f6eedf;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: DM Sans;
+}
+
+.container-md{
+  padding: 0 0%;
+}
+h1 {
+  text-align: center;
+  font-size: 5rem;
+  color: #d63447;
+  font-family: Raleway;
+}
+
+h3 {
+  font-weight: bold;
+
+}
+
+td {
+  border-right: 2.25rem solid transparent;
+}
+
+/* Navigation bar */
+#ulhead {
+  list-style-type: none;
+  margin: 0;
+  padding: 2px;
+  padding-left: 4%;
+  padding-right: 3%;
+  overflow: hidden;
+  background-color: #f4aeba;
+}
+
+#lihead {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 2px;
+  text-decoration: none;
+}
+
+#lihead:hover {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  background-color: #c54c82;
+}
+
+.navbar-brand {
+  font-family:The Nautigal ;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+/* Links */
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration:
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+/* Home page */
+.myDiv {
+  text-align: center;
+  padding-top:100px;
+  padding-bottom: 100px;
+  height: 400px;
+}
+
+.block {
+  text-align: center;
+  display: block;
+  margin: 25% 20% 12% 20%;
+}
+
+.choose ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.choose li {
+  padding: 8px;
+  margin-bottom: 8px;
+  background-color: #ffcccc;
+  color: black;
+}
+
+.choose li:hover {
+  background-color: #fb7777;
+}
+
+#feedback{
+  padding-top: 20px;
+  background-color: #ffcccc;
+  border-top-left-radius: 4%;
+  border-top-right-radius: 4%;
+}
+.card-deck{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* .bordercard{
+    padding-top: 20px;
+    background-color: #ffcccc;
+    height: 750px;
+} */
+/* Contact-us page */
+.Contactus-box {
+  text-align: center;
+  font-size: 120%;
+  background-color: #f6eedf;
+  height: 100%;
+  width: 100%;
+  padding-bottom:6%;
+  border: 3px solid black;
+}
+.formcontactus{
+  margin-top:10%;
+  margin-left:10%;
+  margin-right: 10%;
+}
+
+* {
+  box-sizing: border-box;
+}
+/* About us page */
+.aboutusbox {
+  text-align: center;
+  font-size: 100%;
+  background-color: #f6eedf;
+  height: 100%;
+  width: 100%;
+
+}
+table.tbcenter {
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 36%;
+  margin-bottom: 30px;
+}
+td, th{
+  width: 33.3333333333%;
+}
+
+/* Work of students */
+.photo{
+  border-radius: 25%;
+  margin-bottom: 5%;
+  height: 50%;
+  width: 50%;
+}
+
+
+/* Footer */
+.colorfoot {
+  color: gray;
+  margin: 0% 2% 0% 2%;
+  padding-right: 0%;
+}
+
+.colorfoot a:visited {
+  color: gray;
+}
+
+.colorfoot a:link{
+  color:gray;
+}
+
+.footer {
+  background-color: #f4aeba;
+  height: 100px;
+  padding-top: 45px;
+  padding-right: 0%;
+  width: 100%;
+  text-align: center;
+  font-weight: 200px;
+  margin-bottom: 0;
+}
+
+.textfooter {
+  background-color: #f58295;
+  padding: 12px;
+  font-size: 70%;
+}
+
+.textfoot {
+  color: #403d3d;
+  margin: 2% 5% 0 2%;
+  text-align: right;
+}
+.footicon1{
+  padding-left:9%;
+}
+.footicon{
+  text-align: right;
+  padding-right: 7%;
+}
+/* Carousel */
+
+.carousel {
+  height: 30px;
+  margin-bottom: 5%;
+}
